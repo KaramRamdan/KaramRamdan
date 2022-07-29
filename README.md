@@ -15,51 +15,47 @@ Skills: Flutter / Dart / Bloc / Opp/ Data structure and Algorithms
 <img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
 </p>
 
-
-<img align="right" https://user-images.githubusercontent.com/50058905/181860664-3ac4e515-6d37-4f08-bec2-577f683b40fc.mp4 />
-
-
-
-
-
-###Shop
+### Shop
 A “Shop” is online platform to sell Products.
 <br />
 
 #### Developed with
--Flutter
+- Flutter
 - Dart
 - Bloc
 - Dio 
--Shered Prefances
--Reast Api
+- Shered Prefances
+- Restful Api
+
 <br>
 
-
-h<p></a> <a href="https://https://github.com/KaramRamdan/shop" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
-
+https://user-images.githubusercontent.com/50058905/181861190-48325d0e-ffd7-44ed-aa30-0450f488a1b2.mp4
 
 
 
+
+<p></a> <a href="https://https://github.com/KaramRamdan/shop" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
 <hr>
-<img align="right" src="https://raw.githubusercontent.com/HamdyAbdELFatah/Show-Time/master/Screen/Home.png" alt="News App" style="height: 490px; width:230px;" />
 
-### Show Time
-A “Show Time” application lets users Discover News in Egypt, manage their favorite shows, and discover top-rated Movie.<br />
+
+### News App
+A “News App” application lets users Discover News in Egypt and veiw it in webveiw mode.<br />
 
 #### Developed with
-- Kotlin
-- MVVM architecture
-- Android architecture components
-- Firebase
-- viewBinding
-- Coroutines
-- Retrofit
-- Repository pattern
-- ExoPlayer
+- Flutter
+- Dart
+- Bloc
+- Dio 
+- Shered Prefances
+- Restful Api
+
 <br>
 
-<p></a> <a href="https://github.com/HamdyAbdELFatah/Show-Time" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
+
+https://user-images.githubusercontent.com/50058905/181861653-69a01bf8-4f92-4e68-a4d2-b464795f20e6.mp4
+
+
+<p></a> <a href="https://github.com/KaramRamdan/news_app" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
 <hr>
 
 <p align="center">

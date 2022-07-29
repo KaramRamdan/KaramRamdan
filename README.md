@@ -7,7 +7,7 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 - 💬 Ask me about Android Development 
 - 📫 How to reach me: HamdyAbdElFattah14@gmail.com 
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/200px-Linkedin.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamdy-abd-el-fattah//)  [<img src='https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png' alt='facebook' height='40'>](https://www.facebook.com/hamdy.abdelfattah.35/)  [<img src='https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png' alt='twitter' height='40'>](https://twitter.com/HamdyAbdELFata7)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10022587/hamdy-abd-el-fattah?tab=profile) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/200px-Linkedin.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/karam-ramdan-05a478232//)  [<img src='https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png' alt='facebook' height='40'>](https://www.facebook.com/hamdy.abdelfattah.35/)  [<img src='https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png' alt='twitter' height='40'>](https://twitter.com/HamdyAbdELFata7)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10022587/hamdy-abd-el-fattah?tab=profile) 
 <img src="https://komarev.com/ghpvc/?username=KaramRamdan&color=blueviolet" alt="watching_count" width="140px" />
 <hr>
 <p>
@@ -63,8 +63,8 @@ A “Show Time” application lets users Discover New Movies, manage their favor
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="50px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HamdyAbdELFatah&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="230px"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HamdyAbdELFatah&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="290px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaramRamdan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="230px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KaramRamdan&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="290px"/>
 </p>
 
 

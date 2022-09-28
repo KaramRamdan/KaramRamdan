@@ -15,6 +15,34 @@ Skills: Flutter / Dart / Bloc / Opp/ Data structure and Algorithms
 <img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
 </p>
 
+### Social app
+A “Social app” is online platform to Communicate with friends by chatting and posting, everyone can use the app .
+<br />
+
+#### Developed with
+- Flutter
+- Dart
+- Bloc
+- Shered Prefances
+- FireBase [FireBase Database, Storage,Authentication,Messaging]
+-imagePicker
+
+
+<br>
+
+
+
+https://user-images.githubusercontent.com/50058905/192882169-03094cc2-88c8-48d0-8187-a5d623c4c4eb.mp4
+
+
+
+
+
+
+<p></a> <a href="https://https://github.com/KaramRamdan/social_app" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+
+
 ### Shop
 A “Shop” is online platform to sell Products.
 <br />

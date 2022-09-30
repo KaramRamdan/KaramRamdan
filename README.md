@@ -1,5 +1,5 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height ="30px">, I'm Karam Ramadan 
-<img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="30px" height ="30px">&nbsp;***About me ....***
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height ="30px">, I'm Karam Ramadan 
+<img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="60px" height ="60px">&nbsp;***About me ....***
 ###### A passionate Flutter Developer and Competitive Programmer using Android SDK with Dart programming language, applies new  technologies and follow best practices to make the code clean, readable, usable and  efficient by using the best algorithm to solve the problem
 
 Skills: Flutter / Dart / Bloc / Opp/ Data structure and Algorithms
@@ -7,7 +7,7 @@ Skills: Flutter / Dart / Bloc / Opp/ Data structure and Algorithms
 - 💬 Ask me about Flutter Development 
 - 📫 How to reach me: karamramadan37@gmail.com 
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/200px-Linkedin.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/karam-ramdan-05a478232//) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/200px-Linkedin.svg.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/karam-ramdan-05a478232//) 
 <img src="https://komarev.com/ghpvc/?username=KaramRamdan&color=blueviolet" alt="watching_count" width="140px" />
 <hr>
 <p>

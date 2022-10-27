@@ -43,8 +43,8 @@ https://user-images.githubusercontent.com/50058905/192882169-03094cc2-88c8-48d0-
 <hr>
 
 
-### Shop
-A “Shop” is online platform to sell Products.
+### Shop App
+A “Shop App” is online platform to sell Products.
 <br />
 
 #### Developed with
@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/50058905/181861190-48325d0e-ffd7-44ed-
 
 
 
-<p></a> <a href="https://https://github.com/KaramRamdan/shop" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
+<p></a> <a href="https://github.com/KaramRamdan/shop-App" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
 <hr>
 
 

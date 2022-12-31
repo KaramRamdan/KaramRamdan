@@ -24,7 +24,7 @@ A “Movie App” application  that show the movies and it’s Details like NowP
 - Dart
 - Bloc
 - Dio 
-- Rest of Movies Api
+- Restful Movies Api
 - Equatable
 -  Shimmer
 -  Dartz
